@@ -781,7 +781,7 @@ impl ChatClient {
                                                         UserEvent::ClearList { channel_id: _ } => {
                                                             online_users.lock().await.clear();
                                                         }
-                                                        UserEvent::Remove { user_id } => {
+                                                        UserEvent::Remove { user_id, .. } => {
                                                             let mut users =
                                                                 online_users.lock().await;
                                                             users.retain(|u| {
@@ -792,7 +792,7 @@ impl ChatClient {
                                                                 }
                                                             });
                                                         }
-                                                        UserEvent::Update { user_id, new_user } => {
+                                                        UserEvent::Update { user_id, new_user, .. } => {
                                                             let mut users =
                                                                 online_users.lock().await;
                                                             for user in &mut *users {
