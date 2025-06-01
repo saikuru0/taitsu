@@ -76,15 +76,10 @@
        id="rect22"
        style="opacity:1;mix-blend-mode:multiply;fill:#dfaaf7;fill-opacity:1;stroke:none;stroke-width:3.175;stroke-linejoin:bevel"
        d="m 92.350145,39.078646 -14.9996,9.999907 v 9.999906 l 4.99969,-4.999695 5.00021,4.999695 v 5.000212 h 4.9997 l 5.00021,4.999695 v -4.999695 l -9.99991,-15.000118 h 4.9997 v -5.000212 l 5.00021,-4.999695 z" />
-    <text
-       xml:space="preserve"
-       style="font-size:22.5778px;font-family:'Fixedsys Excelsior';-inkscape-font-specification:'Fixedsys Excelsior, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:1;fill:#dfaaf7;fill-opacity:1;stroke:none;stroke-width:3.175;stroke-linejoin:bevel"
-       x="98.807747"
-       y="59.86047"
-       id="text23"><tspan
-         id="tspan23"
-         style="stroke-width:3.175"
-         x="98.807747"
-         y="59.86047">taitsu</tspan></text>
+    <path
+       d="m 108.68553,59.86047 h -5.64445 v -1.411113 h -1.41111 v -7.055562 h -1.41111 v -1.411113 h 1.41111 v -2.822225 h 2.82223 v 2.822225 h 4.23333 v 1.411113 h -4.23333 v 7.055562 h 4.23333 z m 11.28891,0 h -7.05557 v -1.411113 h -1.41111 v -2.822225 h 1.41111 V 54.21602 h 4.23334 v -2.822225 h -4.23334 v -1.411113 h 5.64445 v 1.411113 h 1.41112 z m -2.82223,-1.411113 v -2.822225 h -2.82223 v 2.822225 z m 11.2889,-9.877788 h -2.82222 v -2.822225 h 2.82222 z m 2.82223,11.288901 h -8.46668 v -1.411113 h 2.82223 v -7.055562 h -2.82223 v -1.411113 h 5.64445 v 8.466675 h 2.82223 z m 11.28889,0 h -5.64445 v -1.411113 h -1.41111 v -7.055562 h -1.41111 v -1.411113 h 1.41111 v -2.822225 h 2.82223 v 2.822225 h 4.23333 v 1.411113 h -4.23333 v 7.055562 h 4.23333 z m 11.28891,-1.411113 h -1.41112 v 1.411113 h -7.05556 v -1.411113 h 5.64445 v -2.822225 h -4.23334 V 54.21602 h -1.41111 v -2.822225 h 1.41111 v -1.411113 h 7.05557 v 1.411113 h -5.64445 v 2.822225 h 4.23333 v 1.411112 h 1.41112 z m 11.2889,1.411113 h -7.05556 v -1.411113 h -1.41112 v -8.466675 h 2.82223 v 8.466675 h 2.82222 v -8.466675 h 2.82223 z"
+       id="text23"
+       style="font-size:22.5778px;font-family:'Fixedsys Excelsior';-inkscape-font-specification:'Fixedsys Excelsior, Normal';fill:#dfaaf7;stroke-width:3.175;stroke-linejoin:bevel"
+       aria-label="taitsu" />
   </g>
 </svg>
