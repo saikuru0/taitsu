@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="87.779709mm"
+   height="30.000004mm"
+   viewBox="0 0 87.779709 30.000004"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient20">
+      <stop
+         style="stop-color:#d28adf;stop-opacity:1;"
+         offset="0.17719299"
+         id="stop18" />
+      <stop
+         style="stop-color:#c452eb;stop-opacity:1;"
+         offset="0.46842101"
+         id="stop19" />
+      <stop
+         style="stop-color:#260226;stop-opacity:0.98476166;"
+         offset="1"
+         id="stop20" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient16">
+      <stop
+         style="stop-color:#c981e0;stop-opacity:1;"
+         offset="0"
+         id="stop17" />
+      <stop
+         style="stop-color:#c452eb;stop-opacity:1;"
+         offset="0.56491226"
+         id="stop15" />
+      <stop
+         style="stop-color:#260226;stop-opacity:0.98476166;"
+         offset="1"
+         id="stop16" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient16"
+       id="linearGradient21"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-17.649656,-115.9215)"
+       x1="110.00009"
+       y1="183.66031"
+       x2="100.00001"
+       y2="166.33966" />
+    <linearGradient
+       xlink:href="#linearGradient20"
+       id="linearGradient22"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="rotate(-90,33.214417,120.86407)"
+       x1="113.38685"
+       y1="169.5535"
+       x2="96.613144"
+       y2="180.44647" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-77.350328,-39.078503)">
+    <path
+       style="fill:url(#linearGradient21);fill-opacity:1;stroke:none;stroke-width:3.175;stroke-linejoin:bevel"
+       d="m 77.350325,49.078503 10,10 v 5 h 5 l 5,5 v -5 l -10,-15 z"
+       id="path1-4-9" />
+    <path
+       style="fill:url(#linearGradient22);fill-opacity:1;stroke:none;stroke-width:3.175;stroke-linejoin:bevel"
+       d="m 77.350325,59.078503 10,-10 h 5 v -5 l 5,-5 h -5 l -15,10 z"
+       id="path1-4-2-3" />
+    <path
+       id="rect22"
+       style="opacity:1;mix-blend-mode:multiply;fill:#dfaaf7;fill-opacity:1;stroke:none;stroke-width:3.175;stroke-linejoin:bevel"
+       d="m 92.350145,39.078646 -14.9996,9.999907 v 9.999906 l 4.99969,-4.999695 5.00021,4.999695 v 5.000212 h 4.9997 l 5.00021,4.999695 v -4.999695 l -9.99991,-15.000118 h 4.9997 v -5.000212 l 5.00021,-4.999695 z" />
+    <text
+       xml:space="preserve"
+       style="font-size:22.5778px;font-family:'Fixedsys Excelsior';-inkscape-font-specification:'Fixedsys Excelsior, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:1;fill:#dfaaf7;fill-opacity:1;stroke:none;stroke-width:3.175;stroke-linejoin:bevel"
+       x="98.807747"
+       y="59.86047"
+       id="text23"><tspan
+         id="tspan23"
+         style="stroke-width:3.175"
+         x="98.807747"
+         y="59.86047">taitsu</tspan></text>
+  </g>
+</svg>
